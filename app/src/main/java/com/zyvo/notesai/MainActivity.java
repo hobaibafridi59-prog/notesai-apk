@@ -17,6 +17,6 @@ public class MainActivity extends Activity {
         w.setWebViewClient(new WebViewClient());
         setContentView(w);
         // Replace with your deployed URL after free deploy
-        w.loadUrl("https://notesai-premium.onrender.com");
+        w.loadUrl("https://expressed-charging-entrepreneur-discipline.trycloudflare.com");
     }
 }
